@@ -2,6 +2,7 @@
   "name": "elends/text-analysis",
   "type": "library",
   "description": "Text analysis service",
+  "license": "proprietary",
   "require": {
     "php": "^8.0.2"
   },
